@@ -19,7 +19,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.8.4</string>
+	<string>5.8.5</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
@@ -44,7 +44,7 @@
 		<key>positionOfDivider</key>
 		<real>459</real>
 		<key>savedFrame</key>
-		<string>0 743 1353 675 0 0 2560 1418 </string>
+		<string>0 33 1353 675 0 0 2560 1418 </string>
 		<key>selectedTab</key>
 		<string>log</string>
 	</dict>
